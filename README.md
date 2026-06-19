@@ -17,11 +17,10 @@ The project framework and guidance were provided externally, with emphasis on **
 
 ## 👥 Team Members
 
-- V. Jahnavi
-- N. Raghu Babu
-- R. L. Amrutha Valli
-- T. Pradeep
-
+-R.Chetan
+-G.VishnuKumar
+-A.Nivas
+-Arthika
 
 ## 🧠 Core Idea
 The core idea of this project is to **automate the detection of spam messages and malicious URLs** using machine learning models trained on historical data, thereby improving digital security and reducing human effort.
